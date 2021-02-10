@@ -11,11 +11,11 @@ We provide the collected dataset for 10 Travis CI projects as well as all the da
 
 Please, use the following bibtex entry:
 @article{saidani2020predicting,
-  title={Predicting Continuous Integration Build Failures Using Evolutionary Search},
-  author={Saidani, Islem and Ouni, Ali and Chouchen, Moataz and Mkaouer, Mohamed Wiem},
-  journal={Journal of Information and Software Technology},
-  volume={128},
-  pages = {106392},
-  year={2020},
-  publisher={Elsevier},
+    title={Predicting Continuous Integration Build Failures Using Evolutionary Search},
+    author={Saidani, Islem and Ouni, Ali and Chouchen, Moataz and Mkaouer, Mohamed Wiem},
+    journal={Journal of Information and Software Technology},
+    volume={128},
+    pages = {106392},
+    year={2020},
+    publisher={Elsevier},
 }
