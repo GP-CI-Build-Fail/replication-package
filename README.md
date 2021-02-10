@@ -10,6 +10,8 @@ We provide the collected dataset for 10 Travis CI projects as well as all the da
 ## How to cite?
 
 Please, use the following bibtex entry:
+
+```tex
 @article{saidani2020predicting,
     title={Predicting Continuous Integration Build Failures Using Evolutionary Search},
     author={Saidani, Islem and Ouni, Ali and Chouchen, Moataz and Mkaouer, Mohamed Wiem},
@@ -19,3 +21,6 @@ Please, use the following bibtex entry:
     year={2020},
     publisher={Elsevier},
 }
+```
+
+
